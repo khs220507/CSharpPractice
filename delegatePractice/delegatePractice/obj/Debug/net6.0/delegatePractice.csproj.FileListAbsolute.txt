@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\obj\Debug\net6.0\delegatePractice.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\obj\Debug\net6.0\delegatePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\obj\Debug\net6.0\delegatePractice.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\obj\Debug\net6.0\delegatePractice.AssemblyInfo.cs
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\obj\Debug\net6.0\delegatePractice.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\bin\Debug\net6.0\delegatePractice.exe
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\bin\Debug\net6.0\delegatePractice.deps.json
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\bin\Debug\net6.0\delegatePractice.runtimeconfig.json
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\bin\Debug\net6.0\delegatePractice.dll
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\bin\Debug\net6.0\delegatePractice.pdb
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\obj\Debug\net6.0\delegatePractice.dll
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\obj\Debug\net6.0\refint\delegatePractice.dll
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\obj\Debug\net6.0\delegatePractice.pdb
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\obj\Debug\net6.0\delegatePractice.genruntimeconfig.cache
+C:\Users\PC\Desktop\Workspace\C_Sharp\delegatePractice\delegatePractice\obj\Debug\net6.0\ref\delegatePractice.dll
